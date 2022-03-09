@@ -1,6 +1,6 @@
 <p align="center"><img src="https://github.com/ericbrasiln/Anais-Anpuh/blob/7002907c1393f62567eb74f360385cd84ced309b/images/labhd.png?raw=true" height="256" width="256"/></p>
 
-[![DOI:EM BREVE]]()
+[![DOI](https://zenodo.org/badge/467663926.svg)](https://zenodo.org/badge/latestdoi/467663926)
  [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
 
 # Ferramenta Anais Anped
