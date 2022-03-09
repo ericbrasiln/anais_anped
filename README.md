@@ -50,7 +50,7 @@ Agora é possível executar a ferramenta direto do prompt de comando do Windows 
 
 ## Utilização
 
-Na pasta da ferramenta existem dois arquivos python que permitem a execução de opções distintas de raspagem. O primeiro, `scielo_v2.py`, permite a raspagem de todas as revistas de uma determinada área do conhecimento. O segundo, `scielo_rev_v2.py`, permite a raspagem por revista ou lista de revistas específicas.
+Na pasta da ferramenta o arquivo `scrape_anped.py`.
 
 Esse script permite ao usuário selecionar qual evento pretende raspar (ou se pretende raspar todos de uma vez).
 
