@@ -9,7 +9,7 @@ message: >-
 type: software
 version: 1.0
 doi: 
-date-released: 2022-09-03
+date-released: 2022-03-09
 url: "https://github.com/ericbrasiln/anais_anped"
 authors:
   - given-names: Eric
