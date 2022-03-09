@@ -3,7 +3,7 @@
 [![DOI:EM BREVE]]()
  [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
 
-# Anais_Anped
+# Ferramenta Anais Anped
 
 Projeto de script para web scraping da página de [Anais da Associação Nacional de Pós-Graduação e Pesquisa em Educação - Anped](http://anais.anped.org.br/).
 
@@ -22,6 +22,7 @@ ___
   - [Instalação](#instalação)
   - [Utilização](#utilização)
   - [Resultados](#resultados)
+  - [Como citar?](#citação)
   - [Licença](#licença)
 
 
@@ -79,6 +80,29 @@ O script retorna para o usuário **todos os pdfs disponíveis em todas as págin
 O script também gera um arquivo **CSV** (*comma-separated values*) contendo os seguintes valores para cada paper: Autores, Título, GT, Evento, Ano, Link.
 
 O script está funcionando perfeitamente. Qualquer alteração no site percebida pelos usuários ou sugestões de aprimoramento são bem vindas.
+
+## Citação
+
+Como citar essa ferramenta?
+
+É possível clicar em `Cite this repository` na aba à direita da página inicial do repositório no GitHub para acessar a citação nos formatos APA e BibTex, ou ainda acessar o [arquivo da citação](CITATION.cff) em formato .cff.
+
+Abaixo a citação no formato BibTex:
+
+```
+cff-version: 1.2.0
+title: Ferramenta Anais Anped
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Eric
+    family-names: Brasil
+    email: ericbrasiln@gmail.com
+    affiliation: IHLM/UNILAB
+    orcid: 'https://orcid.org/0000-0001-5067-8475'
+```
 
 ## Licença
 
