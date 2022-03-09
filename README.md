@@ -90,18 +90,14 @@ Como citar essa ferramenta?
 Abaixo a citação no formato BibTex:
 
 ```
-cff-version: 1.2.0
-title: Ferramenta Anais Anped
-message: >-
-  If you use this software, please cite it using the
-  metadata from this file.
-type: software
-authors:
-  - given-names: Eric
-    family-names: Brasil
-    email: ericbrasiln@gmail.com
-    affiliation: IHLM/UNILAB
-    orcid: 'https://orcid.org/0000-0001-5067-8475'
+@software{Brasil_Ferramenta_Anais_Anped_2022,
+author = {Brasil, Eric},
+month = {3},
+title = {{Ferramenta Anais Anped}},
+url = {https://github.com/ericbrasiln/anais_anped},
+version = {1.0},
+year = {2022}
+}
 ```
 
 ## Licença
